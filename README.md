@@ -12,7 +12,10 @@ LinkSnap is a browser extension that enhances Claude's web interface by allowing
 
 ## Building
 
-A simple `npm install` and `npm run dev` should get you started
+- A simple `npm install` and `npm run dev` should get you started in dev mode
+- `npm run build` and `npm run zip` to build and zip
+
+All should be found in the `.output` directory
 
 ## Installation
 
